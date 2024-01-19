@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning interesting stuff
+- 📫 How to reach me: @Emilia987
+- ⚡ Fun fact: 🦈
 <!--
 **Emilia987/Emilia987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
